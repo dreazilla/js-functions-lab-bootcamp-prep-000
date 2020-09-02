@@ -3,7 +3,7 @@ console.log("My birthday is " + date)
 console.log(`My birthday is ${date}`)
 
 function happyHolidays() {
-  return "Happy Holidays!"
+  return "Happy holidays!"
 }
 
 function happyHolidaysTo(name){
